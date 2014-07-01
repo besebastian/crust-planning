@@ -3,7 +3,6 @@
 ####v0.1
 
 (https://ironbellystudios.app.box.com/ironbellygdd hot damn)
----
 
 ##Overview
 
@@ -15,13 +14,9 @@ The overall feel to the game would be a mixture of slight horror elements of the
 
 Rather than jumping straight on the laser guns and futuristic weapons of traditional sci-fi, an approach is to be taken to use updated or modern versions of traditional weapons such as swords, bows, crossbows, and so on, giving equal importance to either melee or ranged combat.
 
----
-
 ##Target platform
 
 Aiming for release on all major desktop operating systems. Primarily being developed with Windows and Linux in mind, OSX release likely.
-
----
 
 ##Visual style
 
@@ -29,10 +24,6 @@ Aiming for a style along the lines of System Shock 2 or Dead Space. Not necessar
 
 The idea is to give the environments the feeling that they were once lived in and the creatures and enemies which now exist had resistance to their takeover of the station. The environments should show heavy signs of wear and battles that have passed.
 
----
-
 ##Audio style
 
 Following with the name of the game, Crust, the music will be along the lines of crust punk / grind, though without vocals as not to be too abrasive to the end user. Possible use of music keys based on action. Such as ambient music when not "in combat", and fast-paced punk music when fighting.
-
----
