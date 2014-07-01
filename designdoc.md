@@ -27,3 +27,10 @@ The idea is to give the environments the feeling that they were once lived in an
 ##Audio style
 
 Following with the name of the game, Crust, the music will be along the lines of crust punk / grind, though without vocals as not to be too abrasive to the end user. Possible use of music keys based on action. Such as ambient music when not "in combat", and fast-paced punk music when fighting.
+
+##Technologies
+
+* The game will be created with Unity3D
+* Initial 3D assets and environments will be created using Blender
+* Audio will be created with Ableton Live 8
+* Github will be used for version control
